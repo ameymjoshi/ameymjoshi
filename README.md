@@ -14,6 +14,9 @@ Currently focused on the intersection of **AI + enterprise operations + people l
 - DBA operations with AI-assisted triage and automation
 - Culture of experimentation — team projects include AI agents to resolve service now tickets, triage agents, and more
 
+## What I Explore
+- 🖥️ Local AI — installed and ran open-weight LLMs on my own machine (Ollama + Qwen2.5 1.5B on an 8GB Windows laptop; offline, privacy-first experimentation)
+
 ## Certifications
 - AWS Agentic AI Foundations (2026)
 - AWS Developing GenAI Applications on AWS (2026)
